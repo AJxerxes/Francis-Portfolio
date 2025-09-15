@@ -75,7 +75,7 @@ export function About() {
           <div className="grid md:grid-cols-3 gap-6">
             <div className="relative overflow-hidden rounded-lg shadow-lg">
               <img
-                src="/images/francis-hero.jpg"
+                src="/images/profile.jpg"
                 alt="Francis Anigbogu - Professional"
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />

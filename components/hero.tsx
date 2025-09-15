@@ -19,7 +19,7 @@ export function Hero() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="mb-8">
           <img
-            src="/images/francis-hero.jpg"
+            src="/images/profile.jpg"
             alt="Francis Anigbogu"
             className="w-48 h-48 rounded-full mx-auto mb-8 object-cover shadow-lg"
           />
