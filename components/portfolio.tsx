@@ -6,6 +6,19 @@ import { ExternalLink, Github } from "lucide-react"
 export function Portfolio() {
   const projects = [
     {
+      title: "Chromium Browser Sleep Extension",
+      description:
+        "A Chromium-based extension that hibernates inactive tabs to free memory and improve performance.",
+      image: "/placeholder.svg?height=300&width=500",
+      technologies: ["JavaScript", "Chromium Extensions", "Manifest V3"],
+      impact: [
+        "Reduces memory usage by suspending idle tabs",
+        "Improves browser responsiveness on low-RAM systems",
+      ],
+      github: "https://github.com/AJxerxes/Chromium-Browser-Sleep-Extension",
+      demo: "https://github.com/AJxerxes/Chromium-Browser-Sleep-Extension",
+    },
+    {
       title: "IdeaSpace - Community Collaboration Platform",
       description:
         "Led product development for a community-driven idea collaboration platform, increasing active users by 40% and idea submissions by 140% within 8 weeks.",
